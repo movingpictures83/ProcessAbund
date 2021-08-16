@@ -1,4 +1,4 @@
-# rawAnalysis
+# RawAnalysis
 A PluMA pipeline designed to process a large-scale CSV file that contains multiple samples,
 each belonging to a different class of individual for analysis.
 
