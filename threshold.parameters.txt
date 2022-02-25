@@ -1,4 +1,4 @@
-inputfile	pipelines/RawAnalysis/abundRaw.csv
+inputfile	pipelines/ProcessAbund/abundRaw.csv
 threshold	100
 normalize	true
 startcol	3
